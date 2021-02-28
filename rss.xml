@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>YaoYuan Blog</title>
-        <link>https://yaoyuannuaa.github.io/</link>
+        <link>https://yaoyuannuaa.github.op/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.81.0 https://gohugo.io/</generator>
         
@@ -21,15 +21,15 @@
             <webMaster>y_yao@nuaa.edu.cn (YaoYuan)</webMaster>
         
         
-        <lastBuildDate>Sat, 27 Feb 2021 12:01:40 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2021 12:06:12 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://yaoyuannuaa.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://yaoyuannuaa.github.op/rss.xml" />
         
         
             <item>
                 <title>0227test</title>
-                <link>https://yaoyuannuaa.github.io/posts/0227test/</link>
-                <guid isPermaLink="true">https://yaoyuannuaa.github.io/posts/0227test/</guid>
+                <link>https://yaoyuannuaa.github.op/posts/0227test/</link>
+                <guid isPermaLink="true">https://yaoyuannuaa.github.op/posts/0227test/</guid>
                 <pubDate>Sat, 27 Feb 2021 11:58:58 &#43;0800</pubDate>
                 
                     <author>y_yao@nuaa.edu.cn (YaoYuan)</author>
@@ -55,8 +55,8 @@
         
             <item>
                 <title>2021 02 23</title>
-                <link>https://yaoyuannuaa.github.io/posts/2021-02-23/</link>
-                <guid isPermaLink="true">https://yaoyuannuaa.github.io/posts/2021-02-23/</guid>
+                <link>https://yaoyuannuaa.github.op/posts/2021-02-23/</link>
+                <guid isPermaLink="true">https://yaoyuannuaa.github.op/posts/2021-02-23/</guid>
                 <pubDate>Sat, 27 Feb 2021 10:26:02 &#43;0800</pubDate>
                 
                     <author>y_yao@nuaa.edu.cn (YaoYuan)</author>
@@ -90,8 +90,8 @@ cond(no)-&amp;gt;op
         
             <item>
                 <title>2021 02 22</title>
-                <link>https://yaoyuannuaa.github.io/posts/2021-02-22/</link>
-                <guid isPermaLink="true">https://yaoyuannuaa.github.io/posts/2021-02-22/</guid>
+                <link>https://yaoyuannuaa.github.op/posts/2021-02-22/</link>
+                <guid isPermaLink="true">https://yaoyuannuaa.github.op/posts/2021-02-22/</guid>
                 <pubDate>Sat, 27 Feb 2021 10:26:00 &#43;0800</pubDate>
                 
                     <author>y_yao@nuaa.edu.cn (YaoYuan)</author>
@@ -142,8 +142,8 @@ git commit -m &amp;quot;some information about this commit&amp;quot;
         
             <item>
                 <title>2021 02 20</title>
-                <link>https://yaoyuannuaa.github.io/posts/2021-02-20/</link>
-                <guid isPermaLink="true">https://yaoyuannuaa.github.io/posts/2021-02-20/</guid>
+                <link>https://yaoyuannuaa.github.op/posts/2021-02-20/</link>
+                <guid isPermaLink="true">https://yaoyuannuaa.github.op/posts/2021-02-20/</guid>
                 <pubDate>Sat, 27 Feb 2021 10:23:28 &#43;0800</pubDate>
                 
                     <author>y_yao@nuaa.edu.cn (YaoYuan)</author>
@@ -182,8 +182,8 @@ sort对bam文件进行排序。
         
             <item>
                 <title>Hello World</title>
-                <link>https://yaoyuannuaa.github.io/posts/hello-world/</link>
-                <guid isPermaLink="true">https://yaoyuannuaa.github.io/posts/hello-world/</guid>
+                <link>https://yaoyuannuaa.github.op/posts/hello-world/</link>
+                <guid isPermaLink="true">https://yaoyuannuaa.github.op/posts/hello-world/</guid>
                 <pubDate>Sat, 27 Feb 2021 10:15:09 &#43;0800</pubDate>
                 
                     <author>y_yao@nuaa.edu.cn (YaoYuan)</author>
