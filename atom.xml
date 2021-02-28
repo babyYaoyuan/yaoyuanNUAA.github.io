@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">YaoYuan Blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-02-28T12:06:12&#43;08:00</updated>
+    <updated>2021-02-28T12:11:05&#43;08:00</updated>
     <id>https://yaoyuannuaa.github.op/</id>
     <link rel="alternate" type="text/html" href="https://yaoyuannuaa.github.op/" />
     <link rel="self" type="application/atom&#43;xml" href="https://yaoyuannuaa.github.op/atom.xml" />
@@ -16,6 +16,35 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.81.0">Hugo</generator>
+        <entry>
+            <title type="text">2020 02 28</title>
+            <link rel="alternate" type="text/html" href="https://yaoyuannuaa.github.op/posts/2020-02-28/" />
+            <id>https://yaoyuannuaa.github.op/posts/2020-02-28/</id>
+            <updated>2021-02-28T12:08:07&#43;08:00</updated>
+            <published>2021-02-28T12:07:41&#43;08:00</published>
+            <author>
+                    <name>YaoYuan</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>y_yao@nuaa.edu.cn</email>
+                    </author>
+            <summary type="html">测试自动上传脚本 这里是内容</summary>
+            
+                <content type="html">&lt;h1 id=&#34;测试自动上传脚本&#34;&gt;测试自动上传脚本&lt;/h1&gt;
+&lt;p&gt;这里是内容&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">0227test</title>
             <link rel="alternate" type="text/html" href="https://yaoyuannuaa.github.op/posts/0227test/" />
